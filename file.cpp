@@ -111,3 +111,20 @@ int main() {
 Check1:
 	return 0;
 }
+
+/*Create a doubly linked list class that will store <double> values.  The class should have the following:
+Constructor
+Destructor
+Insert function
+Remove function
+Accessor function
+Mutator function
+ 
+Use this class in a program that will give a menu similar to below:
+Add Value
+Delete Value
+Display List (forward)
+Display List (backward)
+Quit
+ 
+The user should be able to use the menu to populate your list, remove elements and display the results.*/
